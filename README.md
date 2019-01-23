@@ -1,1 +1,1 @@
-# startnow-react100-san-diego-top-spots
+# San Diego Top Spots React aplication
